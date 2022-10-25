@@ -1,0 +1,2 @@
+self.__SSG_MANIFEST = new Set(["\u002Fexchange", "\u002Fadd\u002F[[...currency]]", "\u002Fremove\u002F[[...currency]]", "\u002Finfo\u002Ftokens\u002F[address]"]);
+self.__SSG_MANIFEST_CB && self.__SSG_MANIFEST_CB()
